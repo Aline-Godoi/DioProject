@@ -1,16 +1,12 @@
-Primeiro Projeto QA-DIO
+# Primeiro-projeto-QA-DIO
 
-Nesse projeto está os seguintes arquivos: 
+## **Sobre o projeto**
+> Scrum e seu desenvolvimento no Jira.
 
+## **Arquivos disponíveis**
 
-Fluxograma de trabalho. 
-
- MindMap com o fluxo de testes 
-
- Imagens do projeto no Jira
-
- Duas user histories com documentação criada a partir do próprio Jira
-
- Casos de testes, ciclo de testes e plano de testes criados com base nas User Stories
-
- Bug criado com base em um dos testes que falharam
+* [X]  Fluxograma de trabalho 
+* [X]  Mind Map com o fluxo de testes
+* [X]  Duas user story com documentação criada a partir do próprio Jira
+* [X]  Casos de testes, ciclo de testes e plano de testes criados com base nas user story
+* [X]  Bug criado com base em um dos testes que falharam
