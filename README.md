@@ -5,8 +5,8 @@
 
 ## **Arquivos disponíveis**
 
-* [X]  Fluxograma de trabalho 
-* [X]  Mind Map com o fluxo de testes
-* [X]  Duas user story com documentação criada a partir do próprio Jira
-* [X]  Casos de testes, ciclo de testes e plano de testes criados com base nas user story
-* [X]  Bug criado com base em um dos testes que falharam
+*   Fluxograma de trabalho 
+*   Mind Map com o fluxo de testes
+*   Duas user story com documentação criada a partir do próprio Jira
+*   Casos de testes, ciclo de testes e plano de testes criados com base nas user story
+*   Bug criado com base em um dos testes que falharam
